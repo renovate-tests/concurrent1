@@ -4,6 +4,6 @@
     "chalk": "2.0.0"
   },
   "renovate": {
-    "prConcurrentLimit": 2
+    "prConcurrentLimit": 1
   }
 }
